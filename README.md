@@ -1,6 +1,6 @@
 # RockPaperScissors
 
-### This project is a RockPaperScissors game. This project uses for loops and random classes basic concepts of OOPS.
+### This project is a RockPaperScissors game. This project uses for loops and random classes and some basic concepts of OOPS.
 
 # Outputs of this project
 
